@@ -21,4 +21,4 @@ FastSlam Simultaneous Location and Mapping (SLAM) Assignment - Robotics Elements
 
 ## Project details
 
-You can check [the EKF report]() and the [SLAM report]() (in Portuguese) for more details on the project.
+You can check [the EKF report](https://github.com/BrunoScaglione/SLAM-Robotics/blob/master/reports/ekf_report.pdf) and the [SLAM report](https://github.com/BrunoScaglione/SLAM-Robotics/blob/master/reports/slam_report.pdf) (in Portuguese) for more details on the project.
